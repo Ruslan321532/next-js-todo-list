@@ -82,7 +82,7 @@ function Home() {
                   setText(e.target.value);
                 }}
                 required
-                style={{ width: "200px", height: "25px" }}
+                style={{ width: "200px", height: "25px", border:"0px" }}
               />
               <button
                 type="submit"

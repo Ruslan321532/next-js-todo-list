@@ -1,15 +1,15 @@
 const TodoList = [
   {
     id: 1,
-    description: "My first list...",
+    description: "GDE MOYA EDA BLYAT...",
   },
   {
     id: 2,
-    description: "My second list...",
+    description: "OX BLYA...",
   },
   {
     id: 3,
-    description: "My third list...",
+    description: "YA V AHUE...",
   },
 ];
 
